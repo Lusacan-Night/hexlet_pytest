@@ -1,0 +1,1 @@
+![example workflow](https://github.com/Lusacan-Night/hexlet_pytest/actions/workflows/main.yml/badge.svg)
